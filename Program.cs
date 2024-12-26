@@ -30,4 +30,14 @@ static void greet(){
 
 }
 
+static int sum(int a,int b,int c){
+    return a+b+c;
+}
+
+
+static int sum(int a ,int b){
+    return a+b;
+}
+Console.Write(sum(12,22,44));
+Console.Write(sum(78,99));
 greet();

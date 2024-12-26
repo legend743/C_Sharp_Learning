@@ -12,3 +12,5 @@ D:\All project\C_Sharp_Learning\obj\Debug\net8.0\refint\C_Sharp_Learning.dll
 D:\All project\C_Sharp_Learning\obj\Debug\net8.0\C_Sharp_Learning.pdb
 D:\All project\C_Sharp_Learning\obj\Debug\net8.0\C_Sharp_Learning.genruntimeconfig.cache
 D:\All project\C_Sharp_Learning\obj\Debug\net8.0\ref\C_Sharp_Learning.dll
+D:\All project\C_Sharp_Learning\obj\Debug\net8.0\C_Sharp_Learning.sourcelink.json
+D:\All project\C_Sharp_Learning\obj\Debug\net8.0\C_Sharp_Learning.csproj.AssemblyReference.cache
